@@ -1,4 +1,3 @@
-# matchme_policy
 
 <h1>Privacy Policy</h1>
 <p>Last updated: May 04, 2021</p>
